@@ -1,0 +1,13 @@
+package pertemuanpertama; //ini adalah package
+public class Pertemuanpertama {
+    public static void main(String[] args) {
+        System.out.print("Hello world");
+        // ini mencetak data
+        
+        /*
+        ini adalah pertemuan perdana ke 1
+        tentunya membuat project
+        */
+    }
+    
+}
